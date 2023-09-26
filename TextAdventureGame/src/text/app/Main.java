@@ -4,7 +4,7 @@ public class Main {
 
 	//main method
 	//utilize Game.java inside
-	//test commit
+	//test git authoring
 	public static void main(String[] args) {
 		
 
