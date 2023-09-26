@@ -8,6 +8,9 @@ import java.util.*;
  */
 
 public class Game {
+	//game class will actually run the game itself
+	//utilizes classes such as player that represent other things within the game
+	
 	//create necessary variables and structures
 	//set up starting room and scenario, display text
 	//take input

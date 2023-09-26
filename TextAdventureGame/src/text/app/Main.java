@@ -3,9 +3,9 @@ package text.app;
 public class Main {
 
 	//main method
-	//utilize Game.java
+	//utilize Game.java inside
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 
 	}
 
