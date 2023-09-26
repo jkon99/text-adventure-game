@@ -7,5 +7,5 @@ public class Game {
 	//take input
 	
 
-	//test comment by Nahom
+	//test comment by Nahom.
 }
