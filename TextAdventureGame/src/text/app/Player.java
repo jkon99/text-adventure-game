@@ -2,6 +2,8 @@ package text.app;
 
 
 // defines player class and attributes associated with them
+// created and set up by Jonathan Konopka (jkon99)
+
 public class Player {
 	
 	private int HP;
