@@ -5,7 +5,8 @@ import java.util.*;
  * 
  * Text adventure game, acts like a life simulator with stats, changing dates, interacting with people
  * Start off in a bedroom in your home, can interact with things around
- * 
+ * Can attend school, work, activites, make connections/relationships with NPCs
+ * Once certain points are used up for activites, time changes. Day eventually ends and you move to next day of the calendar
  * 
  */
 
