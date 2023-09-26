@@ -3,6 +3,8 @@ import java.util.*;
 
 /* Description of Game and concepts
  * 
+ * Text adventure game, acts like a life simulator with stats, changing dates, interacting with people
+ * Start off in a bedroom in your home, can interact with things around
  * 
  * 
  */
