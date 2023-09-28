@@ -39,4 +39,8 @@ public class Player {
             HP = maxHP;
         }
     }
+    
+    //implement logic to level up and adjust stats
+    //combat, encounter and game over conditions could be part of player or in game? maybe need new class for monster
+    
 }
